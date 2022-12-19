@@ -1,0 +1,24 @@
+.h1{
+
+    border-style: dashed ;
+    border-color: blue;
+    border-width: 2px;
+}
+.h2{
+
+    border-style: dotted ;
+    border-color: blue;
+    border-width: 2px;
+}
+.h3{
+
+    border-style: inset ;
+    border-color: blue;
+    border-width: 2px;
+}
+
+.titulopagina{
+    border-style: outset ;
+    border-color: rgb(88, 186, 88);
+    border-width: 6px;
+}

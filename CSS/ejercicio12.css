@@ -1,0 +1,44 @@
+.li1{
+
+list-style-type: none
+
+}
+.li2{
+
+    list-style-type: disc;
+}
+.li3{
+
+    list-style-type: circle;
+    
+}
+.li4{
+
+    list-style-type: square;
+    
+}
+.li5{
+
+    list-style-type: decimal;
+    
+}
+.li6{
+
+    list-style-type: lower-roman;
+    
+}
+.li7{
+
+    list-style-type: upper-roman;
+    
+}
+.li8{
+
+    list-style-type: lower-alpha;
+    
+}
+.li9{
+
+    list-style-type: upper-alpha;
+    
+}
